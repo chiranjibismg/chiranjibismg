@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Chiranjibi
-- 🌱 I’m currently learning C++,python,html, java
+- 🌱 I am interested in Kotlin Android Developement
 - You can contanct me on chiranpradhan888@gmail.com
 
 <!---
